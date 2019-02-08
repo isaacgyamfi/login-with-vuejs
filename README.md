@@ -1,4 +1,3 @@
-# todoapp
 
 ## Project setup
 ```
